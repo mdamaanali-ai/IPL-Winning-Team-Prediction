@@ -1,0 +1,127 @@
+{
+  "best_model": "Logistic Regression",
+  "results": {
+    "Logistic Regression": {
+      "accuracy": 0.4507042253521127,
+      "precision": 0.4473684210526316,
+      "recall": 0.4857142857142857,
+      "f1": 0.4657534246575342,
+      "classification_report": {
+        "0": {
+          "precision": 0.45454545454545453,
+          "recall": 0.4166666666666667,
+          "f1-score": 0.43478260869565216,
+          "support": 36.0
+        },
+        "1": {
+          "precision": 0.4473684210526316,
+          "recall": 0.4857142857142857,
+          "f1-score": 0.4657534246575342,
+          "support": 35.0
+        },
+        "accuracy": 0.4507042253521127,
+        "macro avg": {
+          "precision": 0.45095693779904306,
+          "recall": 0.4511904761904762,
+          "f1-score": 0.4502680166765932,
+          "support": 71.0
+        },
+        "weighted avg": {
+          "precision": 0.45100748028842913,
+          "recall": 0.4507042253521127,
+          "f1-score": 0.45004991233883346,
+          "support": 71.0
+        }
+      }
+    },
+    "Decision Tree": {
+      "accuracy": 0.5070422535211268,
+      "precision": 0.5,
+      "recall": 0.2,
+      "f1": 0.2857142857142857,
+      "classification_report": {
+        "0": {
+          "precision": 0.5087719298245614,
+          "recall": 0.8055555555555556,
+          "f1-score": 0.6236559139784946,
+          "support": 36.0
+        },
+        "1": {
+          "precision": 0.5,
+          "recall": 0.2,
+          "f1-score": 0.2857142857142857,
+          "support": 35.0
+        },
+        "accuracy": 0.5070422535211268,
+        "macro avg": {
+          "precision": 0.5043859649122807,
+          "recall": 0.5027777777777778,
+          "f1-score": 0.45468509984639016,
+          "support": 71.0
+        },
+        "weighted avg": {
+          "precision": 0.5044477390659748,
+          "recall": 0.5070422535211268,
+          "f1-score": 0.4570649704679691,
+          "support": 71.0
+        }
+      }
+    },
+    "Random Forest": {
+      "accuracy": 0.4225352112676056,
+      "precision": 0.4166666666666667,
+      "recall": 0.42857142857142855,
+      "f1": 0.4225352112676056,
+      "classification_report": {
+        "0": {
+          "precision": 0.42857142857142855,
+          "recall": 0.4166666666666667,
+          "f1-score": 0.4225352112676056,
+          "support": 36.0
+        },
+        "1": {
+          "precision": 0.4166666666666667,
+          "recall": 0.42857142857142855,
+          "f1-score": 0.4225352112676056,
+          "support": 35.0
+        },
+        "accuracy": 0.4225352112676056,
+        "macro avg": {
+          "precision": 0.4226190476190476,
+          "recall": 0.4226190476190476,
+          "f1-score": 0.4225352112676056,
+          "support": 71.0
+        },
+        "weighted avg": {
+          "precision": 0.42270288397048955,
+          "recall": 0.4225352112676056,
+          "f1-score": 0.4225352112676056,
+          "support": 71.0
+        }
+      }
+    }
+  },
+  "train_rows": 1019,
+  "test_rows": 71,
+  "test_season": 2024,
+  "seasons": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "target": "Team 1 wins (1) vs Team 2 wins (0)"
+}

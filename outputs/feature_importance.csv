@@ -1,0 +1,154 @@
+feature,importance
+cat__team1_Lucknow Super Giants,1.1656519061252735
+cat__city_Dubai,0.8983626093714554
+"cat__venue_Maharashtra Cricket Association Stadium, Pune",0.8288782125601479
+cat__team2_Gujarat Titans,0.7501368173831786
+cat__toss_winner_Deccan Chargers,0.7400126498496433
+cat__venue_Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,0.7352733406560049
+cat__team1_Deccan Chargers,0.673616219118483
+cat__team1_Pune Warriors,0.6640692532470156
+cat__team2_Pune Warriors,0.6611391322723963
+cat__toss_winner_Rising Pune Supergiant,0.6284967436369725
+cat__venue_Maharashtra Cricket Association Stadium,0.6256825288110761
+cat__venue_Brabourne Stadium,0.6192922938933686
+cat__venue_Sharjah Cricket Stadium,0.5868352140973954
+cat__city_Johannesburg,0.5783644974973651
+cat__venue_New Wanderers Stadium,0.5783644974973651
+num__team2_recent_form,0.5695753218198686
+cat__city_Cuttack,0.5658566421163557
+cat__venue_Barabati Stadium,0.5658566421163557
+"cat__venue_Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",0.5637280064941457
+cat__team1_Gujarat Lions,0.5094773891161672
+cat__toss_winner_Gujarat Lions,0.48267828074622493
+cat__team2_Lucknow Super Giants,0.4807944487450205
+cat__team2_Chennai Super Kings,0.4624752991716665
+"cat__venue_MA Chidambaram Stadium, Chepauk",0.45672097229066716
+num__team1_win_rate,0.4450886492009232
+"cat__venue_Wankhede Stadium, Mumbai",0.44369869155025277
+cat__venue_Subrata Roy Sahara Stadium,0.4393087939871336
+cat__city_Abu Dhabi,0.419875429725278
+"cat__venue_Narendra Modi Stadium, Ahmedabad",0.4070062205967131
+num__team1_venue_win_rate,0.3971084805047009
+cat__city_Nagpur,0.39095495610306774
+"cat__venue_Vidarbha Cricket Association Stadium, Jamtha",0.39095495610306774
+"cat__venue_Himachal Pradesh Cricket Association Stadium, Dharamsala",0.38270295488326184
+cat__team2_Deccan Chargers,0.3772564112165431
+cat__toss_winner_Kolkata Knight Riders,0.3698356418959977
+cat__city_Dharamsala,0.36315472494361783
+cat__venue_St George's Park,0.35877009337529636
+cat__city_Port Elizabeth,0.35877009337529636
+cat__team2_Mumbai Indians,0.34592268360670697
+cat__venue_Sawai Mansingh Stadium,0.34041434185665553
+cat__venue_De Beers Diamond Oval,0.33838095469634466
+cat__city_Kimberley,0.33838095469634466
+cat__city_Lucknow,0.3367262769154063
+"cat__venue_Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",0.3367262769154063
+cat__team2_Kolkata Knight Riders,0.32908893267553063
+"cat__venue_Punjab Cricket Association IS Bindra Stadium, Mohali",0.3231189902017607
+cat__toss_winner_Royal Challengers Bengaluru,0.321401523950964
+"cat__venue_Dr DY Patil Sports Academy, Mumbai",0.3198482744207313
+cat__team1_Gujarat Titans,0.31287047179263394
+cat__toss_winner_Pune Warriors,0.30680916301980726
+cat__team1_Punjab Kings,0.2975970424555177
+"cat__venue_Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",0.2883493543821767
+cat__team2_Sunrisers Hyderabad,0.28371175749332217
+"cat__venue_Sardar Patel Stadium, Motera",0.2818842316737304
+cat__city_Kanpur,0.2815950358934476
+cat__venue_Green Park,0.2815950358934476
+cat__venue_Sheikh Zayed Stadium,0.27131667402901694
+cat__city_Navi Mumbai,0.27026307306231506
+cat__toss_winner_Sunrisers Hyderabad,0.2675410088506321
+cat__team2_Delhi Capitals,0.26652470219325824
+"cat__venue_Sawai Mansingh Stadium, Jaipur",0.2630395708784388
+"cat__venue_Punjab Cricket Association Stadium, Mohali",0.2567220876748004
+cat__toss_winner_Mumbai Indians,0.25196461600481507
+cat__city_Sharjah,0.24778379851869758
+cat__team2_Rising Pune Supergiant,0.24739327894987165
+cat__venue_Feroz Shah Kotla,0.23881876311188788
+num__team2_win_rate,0.2377517022526109
+cat__city_Pune,0.2361131107510597
+cat__team1_Rising Pune Supergiant,0.23352477209937975
+cat__venue_Dubai International Cricket Stadium,0.2324152286475678
+num__team1_toss_bat_win_rate,0.22421094197519212
+cat__venue_Punjab Cricket Association IS Bindra Stadium,0.2197327892778914
+cat__toss_winner_Gujarat Titans,0.21283495657387264
+"cat__venue_Arun Jaitley Stadium, Delhi",0.2089506554459494
+cat__venue_Nehru Stadium,0.20889355914778307
+cat__city_Kochi,0.20889355914778307
+cat__venue_MA Chidambaram Stadium,0.19582226250498708
+cat__team1_Kochi Tuskers Kerala,0.19159594596042342
+cat__team2_Royal Challengers Bengaluru,0.19138650474274252
+cat__team1_Mumbai Indians,0.1863745757972509
+"cat__venue_MA Chidambaram Stadium, Chepauk, Chennai",0.1825613463326882
+cat__toss_winner_Rajasthan Royals,0.18124647042620765
+num__team2_venue_win_rate,0.174920677073294
+cat__city_Visakhapatnam,0.1715453342149987
+"cat__venue_Barsapara Cricket Stadium, Guwahati",0.16286973486168285
+cat__city_Guwahati,0.16286973486168285
+"cat__venue_Brabourne Stadium, Mumbai",0.16074875160949254
+cat__toss_winner_Kochi Tuskers Kerala,0.15985526623700577
+"cat__venue_Rajiv Gandhi International Stadium, Uppal",0.15774323870967208
+"cat__venue_Rajiv Gandhi International Stadium, Uppal, Hyderabad",0.15275244571242141
+cat__city_Raipur,0.15004415844498917
+cat__venue_Shaheed Veer Narayan Singh International Stadium,0.15004415844498917
+"cat__venue_Zayed Cricket Stadium, Abu Dhabi",0.14855875561058052
+num__team1_recent_form,0.1484882684484411
+cat__toss_winner_Lucknow Super Giants,0.14511526616875203
+num__h2h_team1_rate,0.14328403058222716
+cat__city_Delhi,0.142660932359976
+cat__venue_OUTsurance Oval,0.1369522839992607
+cat__city_Bloemfontein,0.1369522839992607
+cat__team1_Chennai Super Kings,0.13403284776008767
+"cat__venue_M Chinnaswamy Stadium, Bengaluru",0.1319773043699016
+cat__venue_Eden Gardens,0.1306064044759698
+cat__venue_Dr DY Patil Sports Academy,0.12941224703456394
+cat__toss_decision_bat,0.1275976394977332
+cat__city_Ahmedabad,0.12512198857024515
+cat__team1_Delhi Capitals,0.12471074727827976
+num__team2_toss_bat_win_rate,0.12276218463102909
+cat__team1_Sunrisers Hyderabad,0.11667533112519109
+cat__venue_M.Chinnaswamy Stadium,0.11536597234851231
+cat__city_Rajkot,0.11462768518826576
+cat__venue_Saurashtra Cricket Association Stadium,0.11462768518826576
+cat__toss_decision_field,0.11288062925950522
+cat__venue_Arun Jaitley Stadium,0.11279282458105587
+cat__team1_Rajasthan Royals,0.11206739214603458
+cat__team2_Kochi Tuskers Kerala,0.089828485983371
+"cat__venue_Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",0.0846749446843651
+cat__city_Mohali,0.0846749446843651
+cat__city_Chennai,0.07833736364808935
+cat__team2_Rajasthan Royals,0.07816554679888665
+cat__city_Jaipur,0.07737477117812941
+cat__venue_Newlands,0.0767283982148657
+cat__city_Cape Town,0.0767283982148657
+cat__venue_Wankhede Stadium,0.07518406824931541
+"cat__venue_Eden Gardens, Kolkata",0.07448436740310037
+cat__venue_M Chinnaswamy Stadium,0.0739136415957308
+cat__city_Bangalore,0.0739136415957308
+cat__team2_Gujarat Lions,0.06754737332150651
+cat__city_Ranchi,0.0625344934099599
+cat__venue_JSCA International Stadium Complex,0.0625344934099599
+num__team2_toss_win_rate,0.05907396965365747
+cat__venue_Buffalo Park,0.05820413255702884
+cat__city_East London,0.05820413255702884
+cat__city_Kolkata,0.05612203706361078
+cat__venue_SuperSport Park,0.052242459838199425
+cat__city_Centurion,0.052242459838199425
+cat__city_Durban,0.04475608452798576
+cat__venue_Kingsmead,0.04475608452798576
+cat__venue_Rajiv Gandhi International Stadium,0.04373462327300858
+cat__city_Hyderabad,0.03874383024801361
+cat__team2_Punjab Kings,0.03615266819847639
+num__team1_toss_win_rate,0.034379821905958015
+cat__venue_Holkar Cricket Stadium,0.028995594996759775
+cat__city_Indore,0.028995594996759775
+cat__team1_Kolkata Knight Riders,0.027161049707542084
+cat__venue_Himachal Pradesh Cricket Association Stadium,0.019548229390366975
+cat__city_Bengaluru,0.016611332093424056
+cat__toss_winner_Chennai Super Kings,0.014784490068067008
+cat__city_Mumbai,0.01186360988986912
+cat__toss_winner_Delhi Capitals,0.011388966177055593
+cat__team1_Royal Challengers Bengaluru,0.0076741329951537755
+cat__toss_winner_Punjab Kings,0.0023871644063014883
+cat__city_Chandigarh,0.002219662762351542
+num__season,9.525995181868271e-05
