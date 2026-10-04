@@ -110,3 +110,13 @@ Show:
 5. Streamlit prediction
 6. Probability chart
 7. Limitations
+
+8. # 🏏 IPL Winning Team Predictor
+
+<p align="center">
+  <a href="https://ipl-winning-team-prediction-8bhwcegmake72uftzxpzhl.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-red?style=for-the-badge&logo=streamlit" alt="Live Demo">
+  </a>
+</p>
+
+Pre-match ML • Historical form • Head-to-head • Toss • Venue
